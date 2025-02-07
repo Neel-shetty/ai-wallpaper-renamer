@@ -111,4 +111,3 @@ python main.py <input_path> [-o <output_path>] [--in-place] [--device <device>]
 *   `main.py`: The Python script for image captioning and renaming.
 
 This tool simplifies the process of generating captions for wallpaper images and organizing them based on their content.  It provides a convenient way to automate image tagging and management, making it easier to find the perfect wallpaper.
-```
