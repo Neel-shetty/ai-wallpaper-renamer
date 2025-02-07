@@ -57,7 +57,7 @@ This project uses Nix for environment management, ensuring consistent dependenci
 3. **Enter the development shell:** Navigate to the project directory in your terminal and run:
 
    ```bash
-   nix develop
+   nix develop --impure
    ```
 
    This command will create a development environment with all the necessary dependencies (PyTorch, TorchVision, Transformers, Gradio, Python 3.12) installed.  You will be placed inside a shell where these dependencies are available.
